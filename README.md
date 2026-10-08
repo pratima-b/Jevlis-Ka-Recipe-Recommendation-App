@@ -89,7 +89,7 @@ Check out our demo video to see Jevlis Ka in action!
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/paa-rth/jevlis-ka.git
+   git clone  https://github.com/pratima-b/Jevlis-Ka-Recipe-Recommendation-App.git
    ```
 2. **Open the project in your preferred IDE:**
    - For Android Studio: `File` -> `Open` -> Select the `jevlis-ka` directory
